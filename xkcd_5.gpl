@@ -1,0 +1,16 @@
+GIMP Palette
+Name: xkcd 5
+#
+# Named colors from the xkcd Color Name Survey.
+#
+# The 5 colors removed from the 954-color set to obtain the 949-color set.
+#
+# See: https://blog.xkcd.com/2010/05/03/color-survey-results/
+#
+# License: https://creativecommons.org/publicdomain/zero/1.0/
+#
+  8 120   4	darker green
+  1  18 136	darker blue
+ 95  27 107	darker purple
+196  56 127	darker pink
+ 22 212  63	green again
